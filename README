@@ -1,0 +1,23 @@
+Usage Instructions:
+===================
+To build, run make with the appropriate makefile depending on your OS/setup ('make' or 'make build')
+To run, again run make but this time using the 'run' rule ('make run')
+
+Controls:
+=========
+Q,E - Translate the objects
+W - Cycle through the axes of translation
+A,D - Rotate the objects
+S - Cycle through the axes of rotation
+Z,C - Scale the objects
+X - Cycle through the axes of scaling
+
+Move Left Light:
+I,O - Move Left Light on X
+J,K - Move Left Light on Y
+N,M - Move Left Light on Z
+
+Move Right Light (NUMPAD ONLY):
+7,8 - Move Right Light on X
+4,5 - Move Right Light on Y
+1,2 - Move Right Light on Z
